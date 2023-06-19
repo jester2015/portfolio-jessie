@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Jessie Smith',
-  role: 'Software Develper',
+  role: 'Software Developer',
   description:
     'Welcome to my portfolio! I am Jessie Smith, an enthusiastic software developer with a deep passion for learning, exploring, and creating innovative solutions. With eight years of experience in the field, I have honed my skills and developed a strong foundation in various areas of software development.',
   resume:
